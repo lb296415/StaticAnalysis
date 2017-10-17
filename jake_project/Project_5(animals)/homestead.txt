@@ -1,0 +1,17 @@
+Unicorn
+5
+5
+Griffin
+1
+5
+Centaur
+1
+1
+10
+blue
+airbison
+100
+5
+SeaBear
+1
+1
